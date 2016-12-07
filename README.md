@@ -1,4 +1,4 @@
-# Web Service Exercise
+# Web Service JPA/JAXRS
 
 ## Pre-requisites: 
     1. Eclipse for Web Applications installed; 
