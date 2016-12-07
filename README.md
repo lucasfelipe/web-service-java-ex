@@ -1,4 +1,4 @@
-# Web Service Exercício
+# Web Service Exercise
 
 ## Pre-requisites: 
     1. Eclipse for Web Applications installed; 
